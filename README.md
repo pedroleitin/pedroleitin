@@ -1,7 +1,7 @@
 <div align="center">
 	<br>
 		<svg x="0px" y="0px"
-	 viewBox="0 0 471.5 271.7" id="ltn">
+	 viewBox="0 0 471.5 271.7" id="ltn" width="472" height="272">
 <g id="lines">
 	<path class="ltn" fill="none" stroke="#000" stroke-width="20" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
 		M20.9,215.8c-9,28.1,9,43.9,36,40.6c72-8.8,153-234.8,117-230.4s-72,224.8-18,218.2c63-7.7,117-230.4,108-229.3
